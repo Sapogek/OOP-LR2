@@ -1,0 +1,7 @@
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\bin\Debug\OOP_LR2.exe
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\bin\Debug\OOP_LR2.pdb
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\obj\Debug\OOP_LR2.csproj.AssemblyReference.cache
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\obj\Debug\OOP_LR2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\obj\Debug\OOP_LR2.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\obj\Debug\OOP_LR2.exe
+C:\Users\yuriy\RiderProjects\OOP_LR2\OOP_LR2\obj\Debug\OOP_LR2.pdb
